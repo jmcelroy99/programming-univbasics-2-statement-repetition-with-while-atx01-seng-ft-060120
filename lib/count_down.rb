@@ -1,5 +1,5 @@
 # Write your code here
-finesse = 10 
+
 count = 10
 while count >= 1  do 
   puts count
@@ -7,3 +7,4 @@ while count >= 1  do
   
   
 end
+puts "Happy New Year!"
